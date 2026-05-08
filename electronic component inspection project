@@ -1,0 +1,25 @@
+Computer Vision (CV) system for electronic component inspection
+A Computer Vision (CV) system for electronic component inspection is essentially an automated quality control system. Instead of a human being looking through a microscope to see if a circuit board is made correctly, a camera and a computer "look" at the board and decide if it is perfect or defective.
+
+1. The Primary Goal
+The goal is to detect manufacturing defects in Printed Circuit Boards (PCBs) and electronic assemblies in real-time. The system identifies if components are missing, misplaced, or damaged before the product is shipped to a customer.
+
+2. What exactly is it looking for? (Use Cases)
+A computer vision system is designed to catch specific errors, such as:
+
+Missing Components: A capacitor or resistor that was supposed to be soldered but is absent.
+Wrong Polarity/Orientation: A diode or electrolytic capacitor installed backward.
+Solder Defects:
+Solder Bridges: Unwanted blobs of solder connecting two pins (causing a short circuit).
+Insufficient Solder: Not enough solder to create a reliable connection (causing a "cold joint").
+Component Displacement: A chip that has shifted slightly off its pads (misalignment).
+Wrong Component: A 10k ohm resistor used where a 1k ohm resistor should be (detected via markings or color codes).
+
+3 .Why is this project valuable? (The "Why")
+Speed: A computer can inspect a board in milliseconds; a human takes minutes.
+Consistency: Humans get tired and blink; computers do not.
+Miniaturization: Components (like 0201 resistors) are now so small they are almost invisible to the naked eye.
+Cost: Finding a mistake at the factory is cheap; finding a mistake after the product is in the customer's hand is an expensive recall.
+
+Summary :
+"This project is an Automated Optical Inspection (AOI) system that leverages Computer Vision and Deep Learning to ensure the quality of electronic assemblies. By automating the detection of soldering defects and component misplacements, the system increases manufacturing throughput, reduces human error, and ensures high reliability in electronic hardware."
