@@ -6,7 +6,6 @@ The goal is to detect manufacturing defects in Printed Circuit Boards (PCBs) and
 
 2. What exactly is it looking for? (Use Cases)
 A computer vision system is designed to catch specific errors, such as:
-
 Missing Components: A capacitor or resistor that was supposed to be soldered but is absent.
 Wrong Polarity/Orientation: A diode or electrolytic capacitor installed backward.
 Solder Defects:
