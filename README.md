@@ -90,6 +90,20 @@ Frame Grab ──► Flat-Field Correct ──► ROI Crop ──►
 | Dimension out-of-spec | Sub-pixel edge | ±0.01mm |
 
 ---
+## BUDGET ESTIMATION
+
+| Component        | Budget Option                       | Approx Cost     |
+| ---------------- | ----------------------------------- | --------------- |
+| Camera           | HD USB Webcam / Raspberry Pi Camera | ₹2,000–₹4,000   |
+| Lighting         | LED strip / Ring LED                | ₹500–₹1,500     |
+| Processing       | Gaming Laptop / PC with GTX GPU     | Existing system |
+| Conveyor         | DIY mini conveyor                   | ₹3,000–₹5,000   |
+| Controller       | Arduino / ESP32                     | ₹500–₹800       |
+| Sensor           | IR sensor                           | ₹100–₹300       |
+| Reject Mechanism | Servo motor                         | ₹500            |
+| Frame            | Acrylic / Aluminum DIY              | ₹2,000          |
+| Power Supply     | 12V adapter                         | ₹700            |
+| Display          | Existing monitor/laptop             | Existing        |
 
 ## 6. CALIBRATION WIZARD STEPS
 
