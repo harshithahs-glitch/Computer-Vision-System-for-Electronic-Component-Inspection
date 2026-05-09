@@ -20,5 +20,11 @@ Consistency: Humans get tired and blink; computers do not.
 Miniaturization: Components (like 0201 resistors) are now so small they are almost invisible to the naked eye.
 Cost: Finding a mistake at the factory is cheap; finding a mistake after the product is in the customer's hand is an expensive recall.
 
+4. problem statment.
+   Electronic component inspection in manufacturing is often slow, inconsistent, and prone to human error, especially at high production speeds.
+There is a need for an automated system that can detect defects like missing components, misalignment, and soldering issues in real time.
+This project develops an AI-based computer vision system to ensure fast, accurate, and reliable quality inspection on production lines.
+
 Summary :
+
 "This project is an Automated Optical Inspection (AOI) system that leverages Computer Vision and Deep Learning to ensure the quality of electronic assemblies. By automating the detection of soldering defects and component misplacements, the system increases manufacturing throughput, reduces human error, and ensures high reliability in electronic hardware."
